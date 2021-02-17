@@ -1,2 +1,2 @@
 # GTN
-A c++ terminal  simple terminal math game.
+## A c++ terminal  simple terminal math game.
