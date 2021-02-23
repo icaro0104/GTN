@@ -1,5 +1,5 @@
 # GTN
-## A c++ terminal  simple terminal math game.
+## A c++ simple terminal math game.
 
  This is my first c++ aplication, it´s very simple but i had a lot of fun doing it.
 
